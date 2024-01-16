@@ -15,6 +15,11 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 - **Front-End:** React, Tailwind CSS
 - **Other Skills:** [Any other relevant skills]
 
+## Languages
+
+- 🇧🇩 Bengali (Native)
+- 🇬🇧 English (Fluent)
+
 ## Projects
 
 ### Project 1: [Project Name]
