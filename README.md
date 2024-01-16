@@ -7,7 +7,7 @@
 </h1>
 
 ## About Me
-I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding journey started with HTML, CSS, and JavaScript, and I've embraced the power of React and Tailwind CSS in my projects.
+<h4 align="center">I'm a passionate Front-End Developer based in Cumilla, Bangladesh. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
 <br/>
 
 ## Connect with Me
