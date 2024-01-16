@@ -80,10 +80,14 @@ Feel free to explore my repositories, and let's connect! If you have any questio
 
 <br/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&card_width=320&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="180" alt="stats graph"  />
+ <div class="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&card_width=320&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="180" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="180" alt="languages graph" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=react&border_radius=15&date_format=%5BY%20%5DM%20j&card_width=600" alt="GitHub Streak" /></a>
+ </div>
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ![](https://komarev.com/ghpvc/?username=RizwanSuvo99&color=green)
 
