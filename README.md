@@ -67,7 +67,7 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/asudbury/asudbury/blob/master/assets/img/git-repository-line.svg"><img src="/RizwanSuvo99/RizwanSuvo99/raw/master/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
+<td><a target="_blank" rel="noopener noreferrer" href="/RizwanSuvo99/RizwanSuvo99/blob/master/assets/img/git-repository-line.svg"><img src="/RizwanSuvo99/RizwanSuvo99/raw/master/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
 <td><a href="https://github.com/asudbury/showcase">repository</a></td>
 <td><a href="https://asudbury.github.io/showcase" rel="nofollow">https://asudbury.github.io/showcase</a></td>
 </tr>
