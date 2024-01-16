@@ -1,4 +1,4 @@
-(https://ibb.co/93tr8B4)
+<img src="https://ibb.co/93tr8B4">
 
 # Hi there! 👋 I'm Rizwan Suvo
 
