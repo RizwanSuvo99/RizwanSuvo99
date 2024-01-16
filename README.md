@@ -102,8 +102,8 @@ Feel free to explore my repositories, and let's connect! If you have any questio
 <div align="center">
  <h2>🐍 My Contributions 🐍</h2>
  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="170" alt="languages graph"  />
  <img width="800" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RizwanSuvo99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
