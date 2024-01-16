@@ -1,4 +1,4 @@
-<img src="https://ibb.co/93tr8B4"/>
+<img src="[https://ibb.co/93tr8B4](https://i.ibb.co/HpdHFRP/github-header-image-2.png)"/>
 
 # Hi there! 👋 I'm Rizwan Suvo
 
