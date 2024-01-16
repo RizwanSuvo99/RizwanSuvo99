@@ -6,6 +6,17 @@
 
 ###
 
+## About Me
+
+I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding journey started with HTML, CSS, and JavaScript, and I've embraced the power of React and Tailwind CSS in my projects.
+
+- 🌐 Portfolio: [Your Portfolio Link]
+- 📧 Email: rizwanshuvo@gmail.com
+- 📞 Contact: +8801521408552
+- 📍 Location: Cumilla, Bangladesh
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -22,17 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
    <img width="12" />
 </div>
-
-###
-
-## About Me
-
-I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding journey started with HTML, CSS, and JavaScript, and I've embraced the power of React and Tailwind CSS in my projects.
-
-- 🌐 Portfolio: [Your Portfolio Link]
-- 📧 Email: rizwanshuvo@gmail.com
-- 📞 Contact: +8801521408552
-- 📍 Location: Cumilla, Bangladesh
 
 ## Skills
 
