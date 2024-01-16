@@ -107,7 +107,7 @@ Feel free to explore my repositories, and let's connect! If you have any questio
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="170" alt="languages graph"  />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=react&border_radius=15&date_format=%5BY%20%5DM%20j&card_width=600)
+ <img width=600 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RizwanSuvo99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 
