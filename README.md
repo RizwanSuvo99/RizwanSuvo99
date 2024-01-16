@@ -37,7 +37,7 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 ## Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rizwanshuvo/)
-- Facebook: [Your Facebook Handle](https://www.facebook.com/rizwansuvo1/)]
+- Facebook: [Your Facebook Handle](https://www.facebook.com/rizwansuvo1/)
 - Dev.to: [Your Dev.to Profile]
 
 ## Availability
