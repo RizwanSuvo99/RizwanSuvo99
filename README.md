@@ -100,6 +100,8 @@ Feel free to explore my repositories, and let's connect! If you have any questio
 
 ###
 <div align="center">
+ <h2>🐍 My Contributions 🐍</h2>
+ <br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="170" alt="stats graph"  />
   
@@ -113,10 +115,9 @@ Feel free to explore my repositories, and let's connect! If you have any questio
 ###
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+
   <br/><br/><br/>
 </div>
 
