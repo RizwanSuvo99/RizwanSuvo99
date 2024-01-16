@@ -112,5 +112,13 @@ Feel free to explore my repositories, and let's connect! If you have any questio
 
 ###
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=RizwanSuvo99&color=green)
 
