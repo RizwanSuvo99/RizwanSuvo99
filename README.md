@@ -100,7 +100,7 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 
 Feel free to explore my repositories, and let's connect! If you have any questions or if you're interested in collaborating, feel free to reach out.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RizwanSuvo99)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=nightowl&border_radius=15&card_width=600)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=RizwanSuvo99&color=green)
 
