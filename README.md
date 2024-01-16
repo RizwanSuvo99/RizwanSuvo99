@@ -68,7 +68,7 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 <tbody>
   
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Hoobank Responsive Template</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Hoobank Responsive</td>
 <td><a href="https://github.com/RizwanSuvo99/hoobank-responsive">repository</a></td>
 <td><a href="https://hoobank-responsive.vercel.app/" rel="nofollow">https://hoobank-responsive.vercel.app/</a></td>
 </tr>
@@ -107,7 +107,7 @@ Feel free to explore my repositories, and let's connect! If you have any questio
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="170" alt="languages graph"  />
   
-  ![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&show_icons=true&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=react&border_radius=15&date_format=%5BY%20%5DM%20j&card_width=600)
 </div>
 
 
