@@ -51,7 +51,7 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 </div>
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Languages:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - **Front-End:** React, Tailwind CSS, Bootstrap, Sass, BEM
 - **Other Skills:** Microsoft Office,Teaching,Leadership
 
