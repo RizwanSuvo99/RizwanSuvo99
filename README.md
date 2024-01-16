@@ -2,7 +2,9 @@
   <img src="https://i.ibb.co/HpdHFRP/github-header-image-2.png" style="width:100%;"/>
 </div>
 
-# Hi there! 👋 I'm Rizwan Suvo
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizwan+Suvo!;" />
+</h1>
 ## About Me
 I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding journey started with HTML, CSS, and JavaScript, and I've embraced the power of React and Tailwind CSS in my projects.
 <br/>
