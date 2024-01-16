@@ -11,7 +11,7 @@
 I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding journey started with HTML, CSS, and JavaScript, and I've embraced the power of React and Tailwind CSS in my projects.
 ###
 <div align="center">
-  [![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&theme=nightowl&show_icons=true)]
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=nightowl&border_radius=15&card_width=600)](https://git.io/streak-stats)
