@@ -50,21 +50,12 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 <img width="12" />
 </div>
 
-
-
 ## Skills
-
 - **Languages:** HTML, CSS, JavaScript
 - **Front-End:** React, Tailwind CSS, Bootstrap
 - **Other Skills:** Microsoft Office,Teaching,Leadership
 
-## Languages
-
-- 🇧🇩 Bengali (Native)
-- 🇬🇧 English (Fluent)
-
 ## Projects
-
 ### Project 1: [Project Name]
 - [Link to the project]
 - Brief description
