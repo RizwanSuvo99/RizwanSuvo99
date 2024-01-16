@@ -1,5 +1,5 @@
 <div style="width:100%;object-fit:cover;">
-  <img src="https://i.ibb.co/HpdHFRP/github-header-image-2.png" style="width:100%;"/>
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
 
 <h1>
