@@ -36,9 +36,6 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
 <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/daisyui/daisyui-original.svg" alt="Daisy UI" width="40" height="40"/>
-
-<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 <img width="12" />
 </div>
