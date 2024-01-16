@@ -13,6 +13,8 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=nightowl&border_radius=15&card_width=600)](https://git.io/streak-stats)
 </div>
 
 <br/>
@@ -99,8 +101,6 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 - 🌐 Open to remote and onsite opportunities.
 
 Feel free to explore my repositories, and let's connect! If you have any questions or if you're interested in collaborating, feel free to reach out.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=nightowl&border_radius=15&card_width=600)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=RizwanSuvo99&color=green)
 
