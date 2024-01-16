@@ -9,16 +9,10 @@
 ## About Me
 
 I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding journey started with HTML, CSS, and JavaScript, and I've embraced the power of React and Tailwind CSS in my projects.
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="190" alt="languages graph" />
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=nightowl&border_radius=15&card_width=600)](https://git.io/streak-stats)
-</div>
 
 <br/>
 
+## Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/rizwanshuvo/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -62,6 +56,13 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 <img width="12" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="190" alt="languages graph" />
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RizwanSuvo99&theme=nightowl&border_radius=15&card_width=600)](https://git.io/streak-stats)
+</div>
+
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript
@@ -88,11 +89,7 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 
 - Mention any notable achievements or certifications
 
-## Connect with Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rizwanshuvo/)
-- Facebook: [Your Facebook Handle](https://www.facebook.com/rizwansuvo1/)
-- Dev.to: [Your Dev.to Profile]
 
 ## Availability
 
