@@ -30,6 +30,8 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"/>
+  <img width="12" />
 </div>
 
 ## Skills
