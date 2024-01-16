@@ -84,9 +84,9 @@
 </tr>
 
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
-<td><a href="https://github.com/asudbury/react-openai">repository</a></td>
-<td><a href="https://asudbury.github.io/react-openai" rel="nofollow">https://asudbury.github.io/react-openai</a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Calculator With Dark Theme</td>
+<td><a href="https://github.com/RizwanSuvo99/calculator-dark-theme">repository</a></td>
+<td><a href="https://calculator-dark-theme.vercel.app/" rel="nofollow">https://calculator-dark-theme.vercel.app/</a></td>
 </tr>
 
 <tr>
