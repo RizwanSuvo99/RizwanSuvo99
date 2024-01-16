@@ -66,16 +66,19 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 </tr>
 </thead>
 <tbody>
+  
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/RizwanSuvo99/RizwanSuvo99/blob/master/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
 <td><a href="https://github.com/asudbury/showcase">repository</a></td>
 <td><a href="https://asudbury.github.io/showcase" rel="nofollow">https://asudbury.github.io/showcase</a></td>
 </tr>
+
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/asudbury/asudbury/blob/master/assets/img/git-repository-line.svg"><img src="/asudbury/asudbury/raw/master/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> React OpenAI</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
 <td><a href="https://github.com/asudbury/react-openai">repository</a></td>
 <td><a href="https://asudbury.github.io/react-openai" rel="nofollow">https://asudbury.github.io/react-openai</a></td>
 </tr>
+
 </tbody>
 </table>
 
