@@ -100,12 +100,6 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
 
 Feel free to explore my repositories, and let's connect! If you have any questions or if you're interested in collaborating, feel free to reach out.
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanSuvo99)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&show_icons=true&count_private=true)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RizwanSuvo99)
 
 ![](https://komarev.com/ghpvc/?username=RizwanSuvo99&color=green)
