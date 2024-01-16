@@ -90,9 +90,9 @@
 </tr>
 
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
-<td><a href="https://github.com/asudbury/react-openai">repository</a></td>
-<td><a href="https://asudbury.github.io/react-openai" rel="nofollow">https://asudbury.github.io/react-openai</a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Password Strength Meter</td>
+<td><a href="https://github.com/RizwanSuvo99/PasswordStrengthMeter">repository</a></td>
+<td><a href="https://password-strength-meter-blond.vercel.app/" rel="nofollow">https://password-strength-meter-blond.vercel.app/</a></td>
 </tr>
 
 </tbody>
