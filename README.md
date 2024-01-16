@@ -78,6 +78,18 @@
 </tr>
 
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a>Prime Car</td>
+<td><a href="https://github.com/asudbury/react-openai">repository</a></td>
+<td><a href="https://prime-car-eight.vercel.app/" rel="nofollow">https://prime-car-eight.vercel.app/</a></td>
+</tr>
+
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
+<td><a href="https://github.com/asudbury/react-openai">repository</a></td>
+<td><a href="https://asudbury.github.io/react-openai" rel="nofollow">https://asudbury.github.io/react-openai</a></td>
+</tr>
+
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Showcase</td>
 <td><a href="https://github.com/asudbury/react-openai">repository</a></td>
 <td><a href="https://asudbury.github.io/react-openai" rel="nofollow">https://asudbury.github.io/react-openai</a></td>
