@@ -97,16 +97,16 @@ Feel free to explore my repositories, and let's connect! If you have any questio
 
 <br/>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RizwanSuvo99)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-###
+
 
 ![](https://komarev.com/ghpvc/?username=RizwanSuvo99&color=green)
 
