@@ -39,8 +39,6 @@ I'm a passionate Front-End Developer based in Cumilla, Bangladesh. My coding jou
   <a href="https://www.facebook.com/rizwansuvo1">
      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  
-  
 </div>
 
 <br/>
