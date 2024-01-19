@@ -170,23 +170,10 @@
 	   </tr>
 	</tbody>
 </table>
-1. <h6>Course: Front End Development</h6>
-   <p>Institute: New Horizon</p>
-   <p>Duration: 4 months</p>
-   <p>Topics: HTML,CSS,JS,ES6,React JS,Tailwind</p>
-2. <h6>Course: C&C++ Programming</h6>
-   <p>Institute: New Horizon</p>
-   <p>Duration: 4 months</p>
-3. <h6>Course: </h6>
-   <p>Institute: New Horizon</p>
-   <p>Duration: 3 months</p>
-
-
 
 ## Availability
 
 - 🌐 Open to remote and onsite opportunities.
-
 Feel free to explore my repositories, and let's connect! If you have any questions or if you're interested in collaborating, feel free to reach out.
 
 <br/>
