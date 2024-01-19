@@ -139,15 +139,15 @@
 
 ## Training
 
-1. <div style="display:flex"><h4>Course: </h4><h6>Front End Development</h6></div>
-   <p>Institute:New Horizon</p>
+1. <h6>Course: Front End Development</h6>
+   <p>Institute: New Horizon</p>
    <p>Duration: 4 months</p>
    <p>Topics: HTML,CSS,JS,ES6,React JS,Tailwind</p>
-2. <h4>Course: <h6>C&C++ Programming</h6></h4>
-   <p>Institute:New Horizon</p>
+2. <h6>Course: C&C++ Programming</h6>
+   <p>Institute: New Horizon</p>
    <p>Duration: 4 months</p>
-3. <h4>Course: <h6>CompTia Network Plus</h6></h4>
-   <p>Institute:New Horizon</p>
+3. <h6>Course: CompTia Network Plus</h6>
+   <p>Institute: New Horizon</p>
    <p>Duration: 3 months</p>
 
 
