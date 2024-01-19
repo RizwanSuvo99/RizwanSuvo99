@@ -54,7 +54,7 @@
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## Projects
+## 📋 Projects
 <table>
 <thead>
 <tr>
@@ -131,7 +131,7 @@
 </table>
 
 
-## Training
+## 🏋️‍♂️ Training
 
 
 <table>
@@ -165,7 +165,7 @@
 	</tbody>
 </table>
 
-## Availability
+## 🕒 Availability
 
 - 🌐 Open to remote and onsite opportunities.
   
@@ -173,7 +173,7 @@ Feel free to explore my repositories, and let's connect! If you have any questio
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+## 📊 Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&show_icons=true&locale=en&theme=react" alt="RizwanSuvo99" height="192px"/>
