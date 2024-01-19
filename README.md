@@ -9,7 +9,6 @@
 ## About Me
 <h4>I'm a passionate Front-End Developer based in Cumilla, Bangladesh. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
 <br/>
-
 ## Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/rizwanshuvo/" >
