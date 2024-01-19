@@ -139,6 +139,31 @@
 
 ## Training
 
+
+<table>
+	<thead>
+	   <tr>
+		<th>Course</th>
+		<th>Duration</th>
+		<th>Institute</th>
+		<th>Topics</th>
+	   </tr>
+	</thead>
+	<tbody>
+	   <tr>
+		<td>Front End Development</td>
+		<td>8 months+</td>
+		<td>As Sunnah Skill Development Institute</td>
+		<td>HTML,CSS,JavaScript,React JS,Tailwind</td>
+	   </tr>
+	   <tr>
+		<td>Programming With C&C++</td>
+		<td>4 months+</td>
+		<td>New Horizon</td>
+		<td>C&C++</td>
+	   </tr>
+	</tbody>
+</table>
 1. <h6>Course: Front End Development</h6>
    <p>Institute: New Horizon</p>
    <p>Duration: 4 months</p>
