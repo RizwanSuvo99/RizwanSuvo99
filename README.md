@@ -179,7 +179,7 @@ Feel free to explore my repositories, and let's connect! If you have any questio
   <img src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&show_icons=true&locale=en&theme=algolia" alt="RizwanSuvo99" height="192px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="RizwanSuvo99" height="192px"/>
  <img width="800" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RizwanSuvo99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
- <img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanSuvo99&custom_title=Rizwan%20Suvo's%20Contribution%20Graph&theme=react-dark" />
+ <img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanSuvo99&custom_title=Rizwan%20Suvo's%20Contribution%20Graph&theme=react-dark" height="192px"/>
 </div>
 
 ###
