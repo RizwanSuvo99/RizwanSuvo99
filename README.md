@@ -170,6 +170,7 @@
 ## Availability
 
 - 🌐 Open to remote and onsite opportunities.
+  
 Feel free to explore my repositories, and let's connect! If you have any questions or if you're interested in collaborating, feel free to reach out.
 
 <br/>
