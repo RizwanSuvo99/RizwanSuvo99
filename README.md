@@ -162,6 +162,12 @@
 		<td>New Horizon</td>
 		<td>C&C++</td>
 	   </tr>
+	   <tr>
+		<td>Computer Networking</td>
+		<td>3 months+</td>
+		<td>New Horizon</td>
+		<td>CompTia Network Plus</td>
+	   </tr>
 	</tbody>
 </table>
 1. <h6>Course: Front End Development</h6>
@@ -171,7 +177,7 @@
 2. <h6>Course: C&C++ Programming</h6>
    <p>Institute: New Horizon</p>
    <p>Duration: 4 months</p>
-3. <h6>Course: CompTia Network Plus</h6>
+3. <h6>Course: </h6>
    <p>Institute: New Horizon</p>
    <p>Duration: 3 months</p>
 
