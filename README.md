@@ -137,9 +137,18 @@
 </table>
 
 
-## Achievements
+## Training
 
-- Mention any notable achievements or certifications
+1. <h4>Course:</h4><h6>Front End Development</h6>
+   <p>Institute:New Horizon</p>
+   <p>Duration: 4 months</p>
+   <p>Topics: HTML,CSS,JS,ES6,React JS,Tailwind</p>
+2. <h4>Course:</h4><h6>C&C++ Programming</h6>
+   <p>Institute:New Horizon</p>
+   <p>Duration: 4 months</p>
+3. <h4>Course:</h4><h6>CompTia Network Plus</h6>
+   <p>Institute:New Horizon</p>
+   <p>Duration: 3 months</p>
 
 
 
