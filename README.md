@@ -187,42 +187,6 @@ Feel free to explore my repositories, and let's connect! If you have any questio
  <img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanSuvo99&custom_title=Rizwan%20Suvo's%20Contribution%20Graph&theme=react-dark" />
 </div>
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/RizwanSuvo99"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RizwanSuvo99&show_icons=true&locale=en&theme=algolia" alt="RizwanSuvo99" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanSuvo99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="RizwanSuvo99" height="192px"/>
-	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-	<a href="https://github.com/RizwanSuvo99"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanSuvo99&custom_title=Rizwan%20Suvo's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-
-
-###
-<div align="center">
- <h2>States</h2>
- <br/>
- <img width="800" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RizwanSuvo99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-
-
 ###
 
 <div align="center">
