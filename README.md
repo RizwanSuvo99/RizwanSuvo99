@@ -66,6 +66,12 @@
 <tbody>
 
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Halal Jibika App</td>
+<td><a href="https://github.com/RizwanSuvo99/react__halal__jibika__app">repository</a></td>
+<td><a href="https://react-halal-jibika-app.vercel.app/" rel="nofollow">https://react-halal-jibika-app.vercel.app/</a></td>
+</tr>
+
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Mondok React</td>
 <td><a href="https://github.com/RizwanSuvo99/react__Mondok__app">repository</a></td>
 <td><a href="https://react-mondok-app.vercel.app/" rel="nofollow">https://react-mondok-app.vercel.app/</a></td>
