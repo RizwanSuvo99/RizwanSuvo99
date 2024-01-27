@@ -2,6 +2,7 @@
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="850" height="320" />
 </div>
 
+
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+What's+up?;+I'm+Rizwan+Suvo!;" />
 </h1>
