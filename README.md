@@ -91,6 +91,12 @@
 </tr>
 
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Expense Tracker Reducer</td>
+<td><a href="https://github.com/RizwanSuvo99/react__personal__page">repository</a></td>
+<td><a href="https://react-personal-page-ten.vercel.app/" rel="nofollow">https://react-personal-page-ten.vercel.app/</a></td>
+</tr>
+
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Product List React</td>
 <td><a href="https://github.com/RizwanSuvo99/react__products--list">repository</a></td>
 <td><a href="https://react-products-list.vercel.app/" rel="nofollow">https://react-products-list.vercel.app/</a></td>
