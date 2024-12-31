@@ -67,6 +67,18 @@
 <tbody>
 
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Global Travels</td>
+<td><a href="">Private repository</a></td>
+<td><a href="https://globaltravels.vercel.app/" rel="nofollow">https://globaltravels.vercel.app/</a></td>
+</tr>
+
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Class Room Writers</td>
+<td><a href="https://github.com/RizwanSuvo99/verse-voice">repository</a></td>
+<td><a href="https://classroomwriters.com/" rel="nofollow">https://classroomwriters.com/</a></td>
+</tr>
+
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg"><img src="https://github.com/RizwanSuvo99/RizwanSuvo99/blob/main/assets/img/git-repository-line.svg" alt="" style="max-width: 100%;"></a> Halal Jibika App</td>
 <td><a href="https://github.com/RizwanSuvo99/react__halal__jibika__app">repository</a></td>
 <td><a href="https://react-halal-jibika-app.vercel.app/" rel="nofollow">https://react-halal-jibika-app.vercel.app/</a></td>
