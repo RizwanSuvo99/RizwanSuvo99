@@ -160,12 +160,6 @@
 		<td>New Horizon</td>
 		<td>C&C++</td>
 	   </tr>
-	   <tr>
-		<td>Computer Networking</td>
-		<td>3 months+</td>
-		<td>New Horizon</td>
-		<td>CompTia Network Plus</td>
-	   </tr>
 	</tbody>
 </table>
 
